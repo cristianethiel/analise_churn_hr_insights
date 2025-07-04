@@ -25,7 +25,7 @@ A ausência de critérios objetivos dificultava a identificação de funcionári
 - `/dataset`: Base de dados original e tratada (CSV).
 - `/documentacao`: Documentos técnicos do projeto.
   - `apresentacao_churn_colaboradores.pdf`: Metodologia, Tratamento de Dados e Insights.
-  - `ficha_tecnica_churn_colaboradores`: Insights e Recomendações.
+  - `ficha_tecnica_churn_colaboradores.pdf`: Insights e Recomendações.
 - `rh_churn.ipynb`: Notebook com EDA, engenharia de atributos e modelagem preditiva.
 - `requirements.txt`: Bibliotecas utilizadas.
 
